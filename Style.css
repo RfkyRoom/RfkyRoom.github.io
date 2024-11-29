@@ -1,6 +1,13 @@
 body {
     background-image: url('DirtBlock.png');
 }
+
+@media (max-width: 600px) {
+    body {
+        font-size: 14px; /
+    }
+}
+
 header{
     text-align: center;
     font-style: normal;

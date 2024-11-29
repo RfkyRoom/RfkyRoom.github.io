@@ -1,5 +1,7 @@
 body {
     background-image: url('DirtBlock.png');
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-style: normal;
 }
 
 @media (max-width: 600px) {
@@ -10,30 +12,31 @@ body {
 
 header{
     text-align: center;
-    font-style: normal;
-    font-family: cursive;
     color: whitesmoke;
 }
+
 div{
     border-style: solid;
     padding: 50px;
     background-color: #FCF6F5;
     border-radius: 50px;
     border-color: #97BC62;
-    font-style: normal;
-    font-family: cursive;
 }
+
 footer{
     text-align: center;
     color: white;
 }
+
 button {
     cursor: pointer;
     margin-top: 10px;
   }
+
   .question {
     margin-bottom: 20px;
   }
+
   .hakunamatata {
     align-content: center;
     background-color: #FA6775;
@@ -42,8 +45,6 @@ button {
     margin: 0 auto;
     border-radius: 5px;
     color: white;
-    font-style: normal;
-    font-family: cursive;
   }
   .awalan {
     background-color: whitesmoke;
@@ -53,13 +54,8 @@ button {
       padding: 10px;
       width: 300px;
       margin: 10px auto;
-      font-style: normal;
-      font-family: cursive;
   }
-  footer {
-    font-style: normal;
-    font-family: cursive;
-  }
+
   .pickaxe {
     display: block;
     border: solid;
@@ -69,9 +65,9 @@ button {
     width: 80px;
     height: 80px;
   }
+
   #clock {
     font-size: 2em;
-    font-family: cursive;
     text-align: center;
     border: 2px solid red;
     background-color: whitesmoke;
@@ -80,7 +76,6 @@ button {
     padding: 10px;
     width: 300px;
     margin: 10px auto;
-    font-style: normal;
   }
 
   button {

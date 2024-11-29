@@ -10,8 +10,8 @@ body {
     color: #333;
     line-height: 1.6;
     padding: 10px;
-    font-family: 'pacifico',cursive;
-    font-style: normal;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-style: sans-serif;
 }
 
 /* Header Styling */

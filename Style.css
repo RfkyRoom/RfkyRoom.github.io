@@ -1,7 +1,5 @@
 body {
     background-image: url('DirtBlock.png');
-    font-family: "Comic Sans MS", "Comic Sans", cursive;
-    font-style: normal;
 }
 
 @media (max-width: 600px) {

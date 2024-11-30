@@ -130,7 +130,6 @@ footer h3 {
 
 #clock {
     font-size: 2em;
-    font-family: cursive;
     text-align: center;
     border: 2px solid blueviolet;
     background-color: whitesmoke;
@@ -139,7 +138,6 @@ footer h3 {
     padding: 10px;
     width: 300px;
     margin: 10px auto;
-    font-style: normal;
 }
 
 /* Mode Gelap */
